@@ -15,7 +15,7 @@ public class Main {
         uni.addStudent(bernd);
         uni.addStudent(clara);
 
-        System.out.println("\n Liste der Studierenden:");
+        System.out.println("\nListe der Studierenden:");
         printStudentList(uni.getStudents());
 
         System.out.println("\n Negativ beurteilte Studierende:");
